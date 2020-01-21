@@ -117,7 +117,8 @@ class App extends React.Component {
     const bodyStyle = {
       border: "solid 3px silver",
       backgroundColor: "grey",
-      width: "20%",
+      width: "100%",
+      maxWidth: "400px",
       margin: "auto",
       boxShadow: "3px 3px 20px black",
       border: "solid 5px silver",
